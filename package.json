@@ -1,0 +1,25 @@
+{
+  "name": "7bd706cd5bd464a07ad74b329cb7ce11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "producer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/7bd706cd5bd464a07ad74b329cb7ce11.git"
+  },
+  "author": "Orie Steele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/7bd706cd5bd464a07ad74b329cb7ce11"
+  },
+  "homepage": "https://gist.github.com/7bd706cd5bd464a07ad74b329cb7ce11",
+  "dependencies": {
+    "jsonld": "^3.1.1"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
